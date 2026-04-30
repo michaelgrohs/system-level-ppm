@@ -1,0 +1,17 @@
+dataset,series,model,mse,mae
+PermitLog,concurrent_cases,naive,0.6862745098039216,0.6862745098039216
+PermitLog,concurrent_cases,naive_recent,0.0032679738562091504,0.0032679738562091504
+PermitLog,concurrent_cases,seasonal_naive,0.6862745098039216,0.6862745098039216
+PermitLog,concurrent_cases,ets,0.5347496638966035,0.6145735160688429
+PermitLog,concurrent_cases,sarimax,1.6545350116135369,1.051655524794948
+PermitLog,concurrent_cases,ridge,77034.70954306221,254.99393832530134
+PermitLog,concurrent_cases,gru,29668.14887321912,147.2102930268219
+PermitLog,concurrent_cases,nbeats,112886.08338013523,304.0484768237943
+PermitLog,throughput_time,naive,47184486.51384,6095.549856755711
+PermitLog,throughput_time,naive_recent,208780.91377805307,26.97145954316686
+PermitLog,throughput_time,seasonal_naive,47184486.51384,6095.549856755711
+PermitLog,throughput_time,ets,31083256.99589617,4981.559087601573
+PermitLog,throughput_time,sarimax,30318503.911395483,4940.908357248527
+PermitLog,throughput_time,ridge,11932680.840548182,2948.6191656017145
+PermitLog,throughput_time,gru,43480269.33039334,5913.3523868339125
+PermitLog,throughput_time,nbeats,29756359.9843408,5132.169469540929

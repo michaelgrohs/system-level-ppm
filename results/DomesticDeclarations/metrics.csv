@@ -1,0 +1,17 @@
+dataset,series,model,mse,mae
+DomesticDeclarations,concurrent_cases,naive,16498.059210526317,118.46710526315789
+DomesticDeclarations,concurrent_cases,naive_recent,1414.157894736842,25.38157894736842
+DomesticDeclarations,concurrent_cases,seasonal_naive,16832.532894736843,119.71710526315789
+DomesticDeclarations,concurrent_cases,ets,14861.192970131897,112.7612172493258
+DomesticDeclarations,concurrent_cases,sarimax,19955.625819134068,127.66847498645046
+DomesticDeclarations,concurrent_cases,ridge,19826.699457840517,129.96431919683516
+DomesticDeclarations,concurrent_cases,gru,31951.825615301237,157.9066729943228
+DomesticDeclarations,concurrent_cases,nbeats,12925.947575653243,86.02984890184905
+DomesticDeclarations,throughput_time,naive,249215.70988850118,323.03109909156353
+DomesticDeclarations,throughput_time,naive_recent,70081.85671918502,122.02295128019848
+DomesticDeclarations,throughput_time,seasonal_naive,216276.14404453238,358.3794397077997
+DomesticDeclarations,throughput_time,ets,142389.10022498388,289.28997552940524
+DomesticDeclarations,throughput_time,sarimax,307462.76101333677,401.24213600844456
+DomesticDeclarations,throughput_time,ridge,172360.43366634691,246.66022816198898
+DomesticDeclarations,throughput_time,gru,176420.036475448,263.19921313199046
+DomesticDeclarations,throughput_time,nbeats,173871.09325141963,251.76050597656172

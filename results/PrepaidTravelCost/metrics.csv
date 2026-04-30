@@ -1,0 +1,17 @@
+dataset,series,model,mse,mae
+PrepaidTravelCost,concurrent_cases,naive,4540.834586466165,49.766917293233085
+PrepaidTravelCost,concurrent_cases,naive_recent,65.18045112781955,5.676691729323308
+PrepaidTravelCost,concurrent_cases,seasonal_naive,6489.518796992481,65.32330827067669
+PrepaidTravelCost,concurrent_cases,ets,5316.226971831026,56.089422554051104
+PrepaidTravelCost,concurrent_cases,sarimax,2829.0840773268337,38.163412202124036
+PrepaidTravelCost,concurrent_cases,ridge,732.1407197491357,23.2417926491429
+PrepaidTravelCost,concurrent_cases,gru,9236.985356267089,80.6180905433089
+PrepaidTravelCost,concurrent_cases,nbeats,1212.715398461456,26.38281169690584
+PrepaidTravelCost,throughput_time,naive,413407.467605992,495.54090640018336
+PrepaidTravelCost,throughput_time,naive_recent,339490.6901863562,303.33087198629335
+PrepaidTravelCost,throughput_time,seasonal_naive,665110.4108084004,553.5305836208903
+PrepaidTravelCost,throughput_time,ets,457705.4967105896,534.3589823122836
+PrepaidTravelCost,throughput_time,sarimax,705287.4311899947,705.248761165074
+PrepaidTravelCost,throughput_time,ridge,302898.7315406383,391.4794710133802
+PrepaidTravelCost,throughput_time,gru,538502.97357005,593.5865989682537
+PrepaidTravelCost,throughput_time,nbeats,326274.1922977969,415.76868516251733

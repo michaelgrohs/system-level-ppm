@@ -1,0 +1,17 @@
+dataset,series,model,mse,mae
+RequestForPayment,concurrent_cases,naive,21822.1875,114.825
+RequestForPayment,concurrent_cases,naive_recent,572.31875,13.38125
+RequestForPayment,concurrent_cases,seasonal_naive,21380.3125,112.675
+RequestForPayment,concurrent_cases,ets,21323.56634610354,113.88136454812177
+RequestForPayment,concurrent_cases,sarimax,29413.341453703142,128.30425642537415
+RequestForPayment,concurrent_cases,ridge,36909.604863683104,141.4895888194968
+RequestForPayment,concurrent_cases,gru,18793.87508656077,109.97622525248944
+RequestForPayment,concurrent_cases,nbeats,20750.757337102084,117.33437452316284
+RequestForPayment,throughput_time,naive,4389311.010994802,1249.2837953772942
+RequestForPayment,throughput_time,naive_recent,98229.1395841008,107.64230312293431
+RequestForPayment,throughput_time,seasonal_naive,4017781.223767293,1150.988036738949
+RequestForPayment,throughput_time,ets,4305952.12240477,1217.2514098706356
+RequestForPayment,throughput_time,sarimax,5006590.13224003,1382.6233540589883
+RequestForPayment,throughput_time,ridge,4056423.392662077,1147.4170480137127
+RequestForPayment,throughput_time,gru,4163591.473882537,1170.5302644087838
+RequestForPayment,throughput_time,nbeats,3975420.0683728205,1135.2211762168845
